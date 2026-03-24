@@ -1,4 +1,12 @@
-[
-    { "name": "СЕРВЕР №1", "ip": "188.165.140.93", "port": "1210" },
-    { "name": "ТЕСТОВЫЙ СЕРВЕР", "ip": "127.0.0.1", "port": "7777" }
-]
+{
+    "version_info": {
+        "launcher": "1.0.5",
+        "client": "1.2.0",
+        "launcher_url": "https://github.com/L0rdjpg/.../setup.exe",
+        "client_url": "https://melonity-crmp.ru/patch.zip"
+    },
+    "servers": [
+        { "name": "СЕРВЕР №1", "ip": "188.165.140.93", "port": "1210" },
+        { "name": "ТЕСТОВЫЙ СЕРВЕР", "ip": "127.0.0.1", "port": "7777" }
+    ]
+}
