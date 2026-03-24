@@ -1,12 +1,12 @@
 {
     "version_info": {
-        "launcher": "1.0.5",
+        "launcher": "1.0.1",
+        "launcher_url": "https://github.com/...",
         "client": "1.2.0",
-        "launcher_url": "https://github.com/L0rdjpg/.../setup.exe",
-        "client_url": "https://melonity-crmp.ru/patch.zip"
+        "client_url": "https://твой-сайт.ru/patch.zip",
+        "game_no_new_sborka": 1
     },
     "servers": [
-        { "name": "СЕРВЕР №1", "ip": "188.165.140.93", "port": "1210" },
-        { "name": "ТЕСТОВЫЙ СЕРВЕР", "ip": "127.0.0.1", "port": "7777" }
+        { "name": "СЕРВЕР №1", "ip": "188.165.140.93", "port": "1210" }
     ]
 }
